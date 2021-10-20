@@ -4,9 +4,13 @@
     <h1>Zadania</h1>
   </head>
   <body>
-    <a href="https://yoda20039.github.io/zadania/">Zadanie 1</a>
-    <a href=" kap- ">Zadanie 2</a>
-    <a href=" Zadanie-1.io ">Zadanie 3</a>
-    <a href=" ">Zadanie 4</a>
+    <p><b>To jest zadanie 3</b></p>
+    <a href="https://yoda20039.github.io/zadania/"><mark>Zadanie 1</mark></a>
+    <a href="https://yoda20039.github.io/Zadanie-2/">Zadanie 2</a>
+    <a href=" Zadanie-1.io ">Zadanie <del>trzecie</del> <ins>czwarte</ins></a>
+    <a href=" ">Zadanie 5</a>
+    <a href=" ">Zadanie 6</a>
+    
+    <a style="color:Tomato;" href=" ">Odnośnik</a>
   </body>
 </html>
