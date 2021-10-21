@@ -10,13 +10,5 @@
 <p><a href=" Zadanie-1.io ">Zadanie <del>trzecie</del> <ins>czwarte</ins></a></p>x
 <p><a href=" "><small>Zadanie 5</small></a></p>
 <p><a href=" "><sub>Zadanie 6</sub></a></p>
-
-  
-  
-  
-  
-  
-  
-<p><a href="https://youtu.be/u_GxckFuTZs"> PICKLE RICK!!!</a></p>
 </body>
 </html>
