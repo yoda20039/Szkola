@@ -9,7 +9,7 @@
 <p style="color:yellow"><small>I'm yellow</small></p>
 <p style="color:red"><i>I'm red </i></p>
 <p style="color:blue"><ins> I'm blue<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>I have a blue house<br>With a blue window<br>Blue is the colour of all that I wear<br>Blue are the streets<br>And all the trees are too<br>I have a girlfriend and she is so blue</ins></p>
-<p><a href="<p style="color:blue"><ins> I'm blue<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>I have a blue house<br>With a blue window<br>Blue is the colour of all that I wear<br>Blue are the streets<br>And all the trees are too<br>I have a girlfriend and she is so blue</ins></p>"> TEST</a>
+<a href="<ins> I'm blue<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>Da ba dee da ba di<br>I have a blue house<br>With a blue window<br>Blue is the colour of all that I wear<br>Blue are the streets<br>And all the trees are too<br>I have a girlfriend and she is so blue</ins><"> TEST</a>
 
 <p><a href="https://yoda20039.github.io/zadania/">Zadanie 1</a></p>x
 <p><a href="https://yoda20039.github.io/Zadanie-2/">Zadanie 2</a></p>x
