@@ -17,6 +17,6 @@
 <p><a href=" "><small>Zadanie 5</small></a></p>
 <p><a href=" "><sub>Zadanie 6</sub></a></p>
   <video width="320" height="240" controls>
-    <source src="Pickle Rick .mp4" type="video/mp4">
+    <a href="Pickle Rick .mp4">PICKLE RICK!!!</a>
 </body>
 </html>
