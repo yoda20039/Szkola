@@ -4,6 +4,10 @@
 <h1>Zadania</h1>
 </head>
 <body>
+<p style="background-color:green;">><sub>I'm beans</sub></p>
+<p style="background-color:yellow;">><small>I'm banana</small></p>
+<p style="background-color:red;">><i>I'm tomato </i></p>
+<p style="background-color:blue;">><ins> I'm berry<br>
 <p><b>To jest zadanie 3</b></p>
 <p style="color:green"><sub>I'm green</sub></p>
 <p style="color:yellow"><small>I'm yellow</small></p>
