@@ -21,8 +21,8 @@
 <p><a href=" Zadanie-1.io ">Zadanie czwarte</a></p>
 <p><a href=" "><small>Zadanie 5</small></a></p>
 <p><a href=" "><sub>Zadanie 6</sub></a></p>
-
-         <img alt="Qries" src="https://th.bing.com/th/id/R.cec58cbb7441e26a49dc270bf49dcec0?rik=qCx0JGJj81a11g&pid=ImgRaw&r=0"
+      <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
          width=150" height="70">
   <video width="320" height="240" controls>
   <source src="Pickle Rick .mp4" type="video/mp4">
