@@ -14,7 +14,7 @@
 <p style="background-color:green;"><sub> I'm beans</sub></p>
 <p style="background-color:yellow;"><small> I'm banana</small></p>
 <p style="background-color:red;"><i> I'm tomato </i></p>
-<p style="background-color:blue;"><ins> I'm berry <br></p>
+<p style="background-color:blue;"><ins> I'm berry <br> </p>
   
 <p><a href="https://yoda20039.github.io/zadania/">Zadanie 1</a></p>x
 <p><a href="https://yoda20039.github.io/Zadanie-2/">Zadanie 2</a></p>x
